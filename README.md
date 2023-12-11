@@ -1,6 +1,6 @@
 # Travel Backpack
 
-Hi there! During this project I have learned how to store data in the browser using Local Storage. I developted a travel backpack were you can make a list of itens to bring to your next trip and avoid forgeting something while you are packing! As we are saving your data in the Local Storage, you can close the tab and have access to your list anytime after that! It was created using JavaScript and the HTML and CSS were ready to use. It was created during Alura's class *JavaScript for Web: storing data in the browser*.
+Hi there! During this project I have learned how to store data in the browser using Local Storage. I developted a travel backpack were you can make a list of items to bring to your next trip and avoid forgeting something while you are packing! As we are saving your data in the Local Storage, you can close the tab and have access to your list anytime after that! It was created using JavaScript and the HTML and CSS were ready to use. It was created during Alura's class *JavaScript for Web: storing data in the browser*.
 
 To see the final result, click [here](https://mochila-de-viagem-silk.vercel.app/).
 
